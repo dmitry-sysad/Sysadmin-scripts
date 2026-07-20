@@ -25,7 +25,7 @@
 
 ## 🚀 Как запустить
 
-1. Скачай или клонируй репозиторий:
-   ```bash
-   git clone https://github.com/твой-ник/sysadmin-scripts.git
+1. Скачай или клонируй репозиторий.
+ ```bash
+   git clone https://github.com/dmitry-sysad/sysadmin-scripts.git
    cd sysadmin-scripts
